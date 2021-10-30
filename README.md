@@ -4,9 +4,9 @@
   
 <h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Maria Clara</h1>
 
-- 🔭 Iniciando na área
-- 🌱 Estudando HTML, CSS, JAVASCRIPT
-- 🏹 Futura desenvolvedora mobile developer 
+- 🔭 Starting in the area
+- 🌱 Studying HTML, CSS, JAVASCRIPT
+- 🏹 Future mobile developer 
 
 <div align="center">
   <a href="https://github.com/mariaclaracesar">
