@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
