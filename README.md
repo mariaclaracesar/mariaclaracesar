@@ -1,11 +1,9 @@
 
-
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
   
 <h1 align="left">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Maria Clara</h1>
 
-- 🔭 Starting in the area
-- 🌱 Studying HTML, CSS, JAVASCRIPT
+- 🔭 Advancing in the area
+- 🌱 Studying REACT NATIVE, TYPESCRIPT
 - 🏹 Future mobile developer 
 
 <div align="center">
@@ -16,11 +14,14 @@
 
 <br><br>
 
+  
 <div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  
   
 <br><br>
   
