@@ -4,7 +4,7 @@
 
 - 🔭 Advancing in the area
 - 🌱 Studying REACT NATIVE, TYPESCRIPT
-- 🏹 Future mobile developer 
+- 🏹 Mobile developer 
 
 <div align="center">
   <a href="https://github.com/mariaclaracesar">
