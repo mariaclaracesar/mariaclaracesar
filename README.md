@@ -2,9 +2,7 @@
   
 <h1 align="left">Hi!, I'm Maria Clara</h1>
 
-- 🔭 Advancing in the area
-- 🌱 Studying REACT NATIVE, TYPESCRIPT
-- 🏹 Mobile developer 
+- 📱 Mobile developer 
 
 <div align="center">
   <a href="https://github.com/mariaclaracesar">
